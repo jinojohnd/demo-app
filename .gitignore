@@ -7,3 +7,4 @@ logs/application.json
 logs/application.log
 logs/errors.log
 /target
+.idea/copilot.data.migration.agent.xml
